@@ -1,0 +1,14 @@
+IMPERIUM BARBERSHOP - tema azul e branco (HTML, CSS e JavaScript puros)
+
+Nao precisa de Node.js, npm nem instalacao.
+
+COMO USAR: extraia o zip e de dois cliques em index.html.
+PARA PUBLICAR: envie a pasta inteira para qualquer hospedagem.
+
+O QUE EDITAR
+- Textos, precos, endereco e telefone: index.html
+- Numero do WhatsApp: js/script.js (variavel NUM, formato 5581900000000)
+- Cores: css/style.css (variaveis no topo, em :root)
+- Logo: assets/logo.png (versao azul com fundo transparente)
+
+Obs.: as fontes vem do Google Fonts e precisam de internet.
